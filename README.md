@@ -1,3 +1,4 @@
+![logo](https://github.com/VinayShetyeOfficial/Vinay-Shetye/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Vinay Shetye</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
