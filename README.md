@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 💬 Ask me about **related to software, web design, front-end work**
+- 💬 Ask me anything about **software, web design, web applications and front-end related work**
 
 - 📫 How to reach me **vinay.shetye.personal@outlook.com**
 
