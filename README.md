@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vinay.shetye.personal@outlook.com**
 
-- 📄 Know about my experiences [shorturl.at/opAIM](shorturl.at/opAIM)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1K7-_vZE68PT_z1WDlZqvmvfe2u_haOUK/view?usp=share_link">here</a>
 
 - ⚡ Fun fact **an avid chess player, doodler, and CodePen enthusiast. <br>
    I enjoy expressing my creativity and experimenting with new technologies.**
