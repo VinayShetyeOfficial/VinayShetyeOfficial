@@ -1,6 +1,7 @@
-![logo](https://github.com/VinayShetyeOfficial/Vinay-Shetye/blob/main/banner.jpg)
+![Vinay Shetye Banner](https://github.com/VinayShetyeOfficial/Vinay-Shetye/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Vinay Shetye</h1>
-<h3 align="center">A passionate Software Engineer from Goa, India</h3>
+<h3 align="center">A passionate FullStack Web Developer currently pursuing a Master's Degree in Computer Science <br>@ University of Massachusetts Dartmouth</h3>
 
 <img class="profile-image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" align="right">
 
@@ -8,20 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/vinayshetye_" target="blank"><img src="https://img.shields.io/twitter/follow/vinayshetye_?logo=twitter&style=for-the-badge" alt="vinayshetye_" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce websites**
-
-- 🌱 I’m currently learning **React,Vue and Angular Js**
-
-- 👯 I’m looking to collaborate on **frontend projects**
-
-- 💬 Ask me anything about **software, web design, web applications and front-end related work**
-
-- 📫 How to reach me **vinay.shetye.personal@outlook.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1K7-_vZE68PT_z1WDlZqvmvfe2u_haOUK/view?usp=share_link">here</a>
-
-- ⚡ Fun fact **an avid chess player, doodler, and CodePen enthusiast. <br>
-   I enjoy expressing my creativity and experimenting with new technologies.**
+- 🔭 Currently developing AI integrated E-commerce websites and Full-stack projects for real-world solutions through digital platforms.
+- 🌱 Deeply immersed in Generative AI, Datafication, and other leading-edge technologies to explore and innovate.
+- 👯 Eager to collaborate on exciting fullstack projects and innovative Android/IOS applications.
+- 💬 Ask me anything about software development, web design, and the latest tech developments.
+- 📫 Reach me at vinay.shetye.personal@outlook.com. I'm always ready to connect.
+- 📄 Want to know more about me? 🧐📄[Resume](https://drive.google.com/file/d/1hIavtK-urIsTy7uL6ex11I7X4QEBcKh0/view?usp=sharing)
+- ⚡ Fun fact: Passionate chess player, doodler, and CodePen enthusiast who finds joy in exploring creativity and technology.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,9 +35,7 @@
 </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<!---
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
--->
 <p>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
