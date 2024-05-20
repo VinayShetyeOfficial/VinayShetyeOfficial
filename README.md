@@ -14,7 +14,7 @@
 - 👯 Eager to collaborate on exciting fullstack projects and innovative Android/IOS applications.
 - 💬 Ask me anything about software development, web design, and the latest tech developments.
 - 📫 Reach me at vinay.shetye.personal@outlook.com. I'm always ready to connect.
-- 📄 Want to know more about me? 🧐📄[Resume](https://drive.google.com/file/d/1fFTps2QLVPpRFB6UqrNbm5QnVLMe4CG2/view?usp=sharing)
+- 📄 Want to know more about me? 🧐📄[Resume](https://drive.google.com/file/d/1m7kHOigKcyL0oZkcJ0SUnhT5rOh_2kO2/view?usp=sharing)
 - ⚡ Fun fact: Passionate chess player, doodler, and CodePen enthusiast who finds joy in exploring creativity and technology.
 
 <h3 align="left">Connect with me:</h3>
