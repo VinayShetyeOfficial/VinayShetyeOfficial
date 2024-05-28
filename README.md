@@ -1,5 +1,5 @@
 ![Vinay Shetye Banner](https://github.com/VinayShetyeOfficial/Vinay-Shetye/blob/main/banner.jpg)
-
+ 
 <h1 align="center">Hi 👋, I'm Vinay Shetye</h1>
 <h3 align="center">A passionate FullStack Web Developer currently pursuing a Master's Degree in Computer Science <br>@ University of Massachusetts Dartmouth</h3>
 
