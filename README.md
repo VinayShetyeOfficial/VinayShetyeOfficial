@@ -61,7 +61,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayshetyeofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinayshetyeofficial&theme=radical" alt="GitHub Streak" />
+<div style="display: flex; flex-direction: column; gap: 20px;">
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=vinayshetyeofficial&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </div>
+  <div>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=vinayshetyeofficial&theme=radical" alt="GitHub Streak" />
+  </div>
 </div>
