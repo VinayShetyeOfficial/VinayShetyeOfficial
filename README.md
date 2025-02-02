@@ -62,6 +62,8 @@
 ### 📊 GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img style="height:200; max-width:400" src="https://github-readme-stats.vercel.app/api?username=vinayshetyeofficial&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img style="height:200; max-width:400" src="https://github-readme-streak-stats.herokuapp.com?user=vinayshetyeofficial&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img style="height:200px; max-width:400px;" src="https://github-readme-stats.vercel.app/api?username=vinayshetyeofficial&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img style="height:200px; max-width:400px;" src="https://github-readme-streak-stats.herokuapp.com?user=vinayshetyeofficial&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
