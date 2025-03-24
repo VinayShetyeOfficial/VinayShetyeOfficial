@@ -21,7 +21,7 @@
   - 👥 Open to collaborate on fullstack & mobile app projects
   - 💬 Expert in software development & web design
   - 📧 Contact: vinay.shetye.personal@outlook.com
-  - 📄 [View My Resume](https://drive.google.com/file/d/1m7kHOigKcyL0oZkcJ0SUnhT5rOh_2kO2/view?usp=sharing)
+  - 📄 [View My Resume](https://vinayshetye.vercel.app/resume.pdf)
   - ⚡ Fun fact: Chess player, doodler & CodePen enthusiast
 </div>
 
